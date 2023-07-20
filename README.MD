@@ -8,8 +8,14 @@ Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
   
 </details>
 
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%201.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%202.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%203.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%204.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%205.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%206.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%201.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%202.png" width="500">
 
 
 ## Description
@@ -135,4 +141,11 @@ Also, thanks to all my beta testers for their feedback while designing Cynthia. 
 
 ## Images
 
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%201.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%201.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%202.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%203.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%204.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%205.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%206.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%201.png" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%202.png" width="500">
