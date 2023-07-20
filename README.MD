@@ -1,14 +1,13 @@
-# Cynthia
-Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
+# Battlemage
+Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
 
 <details>
 <summary>Changelog (click this text, it's a dropdown!)</summary>
 
-- Changelog: 3-31-2023: Blaster release.
+- Changelog: 7-20-2023: SUPER ROUGH ALPHA RELEASE
   
 </details>
 
-<img src="GHimages/Cynthia%20Bolt%20Action%2011v31%20color%20showoff%20v29%20-%20Copy.png" width="500">
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="500">
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
 
@@ -18,80 +17,25 @@ Cynthia is a Talon mag fed bolt action blaster, customizable for any need.
 Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra, but I pretty quickly realized it would be easier to design a whole new blaster from the ground up, rather than fix the Indra part by part.
 Cynthia contains no original Indra parts.
 
-Firing Demo: https://youtube.com/clip/UgkxEHjsmXU370IFB8PHDxiK1v4qDb7vdCwZ
 
-Blaster Overview: https://youtu.be/mIW0dAyOCv0
+## DWELL TIME
 
-Customization Overview: https://www.youtube.com/watch?v=mZe6dWdQUs0
+Dwell time fixes:
 
-Assembly Video: https://youtu.be/j310YjRcwpU
+TL:DR, the breech needs to stay closed longer.
 
-## Reviews
+In order to use either of these fixes, the total wheel movement back and forth will likely need to be increased.
 
-Videos:
-- BansheeIndian: https://www.youtube.com/watch?v=CzInCRDko88
+Method 1: add a slot to the driving pin to delay movement.
 
-## What does Cynthia fix vs the Indra?
+Method 2: Have the ram itself slide inside the ram-carrier.
 
-The Indra by CaptainSlug is infamous for it's many issues. Thankfully, Cynthia fixes almost all the issues the Indra had:
-- Fixed catch reliability by using the plunger system from the SLAB (modified to be longer)
-- Improved plunger tube attachment strength (glue and more attachment area)
-- Improved ramrod retention
-- Made Cynthia slimmer
-- Lengthened the stock to be Caliburn V4 length.
-- Massively improved trigger feel
-- Made the blaster lighter
-- Less hardware cost
-- Vastly improved front half rigidity
-- A lot easier to assemble, disassemble, and swap springs.
-- The thumbhole stock is easily removable, and is not required (on the Indra, the stock rod is required for blaster rigidity)
-- Probably more stuff that I can't remember
+I personally think method 2 has more promise, but my method of keeping the ram from rotating out of position is semi-sketchy: using the head of a hex bolt in a hex shaped slot. 
 
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%202.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%203.png" width="500">
+Neither of these have been printed or tested as of 7-20-2023.
 
-## Optional Parts
-
-There are many variant parts for Cynthia:
-- Left and right handed parts
-- Front Ends
-- - Cynthia text or no Cynthia text
-- - Ported and unported
-- - Side rail or no side rail
-- - Slim front end
-- - Stubby short front end
-- Two grip styles
-- Several trigger styles
-- Thumbhole stock or no thumbhole stock
-- Fully enclosed plunger tube travel space, or open plunger tube space
-- - Fully enclosed is good for people with beards, to protect yourself from hair-rippage during priming
-- Tons of bolt handle options and lengths
-- Locking bolt handle (for "realistic" bolt action coolness) or freely-moving bolt handle
-- - Optional ball detent makes the bolt handle clicky as well, which feels really good.
-- Optional muzzle with extra bottom picatinny (for bipod mounting)
-- Optional picatinny rail replacements with no picatinny, for aesthetic sleekness
-- Optional front grip
-- Magwell panels with or without elastic holes, respectively for use with elastic or a spring on the mag release
-- etc
-
-<img src="GHimages/front%20grip.png" width="400"><img src="GHimages/muzzle%20bottom%20picatinny.png" width="400">
-<img src="GHimages/side%20rail.png" width="400"><img src="GHimages/slim%20with%20front%20grip.png" width="400">
-<img src="GHimages/stocks.png" width="400"><img src="GHimages/triggers.png" width="400">
-<img src="GHimages/stubby.png" width="400"><img src="GHimages/slim.png" width="400">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%208.png" width="500">
-
-Here are some good Picatinny sights if you want some:
-- https://www.thingiverse.com/thing:2376150/files FrontPip and Pip in the Caliburn fileset are great iron sights.
-- https://www.thingiverse.com/thing:1667830
-- https://www.thingiverse.com/thing:2829229
-- https://www.thingiverse.com/thing:5103083
-
-### Performance:
-As testing is done, I will update this part of the page with common spring/barrel combos for specific FPS numbers.
-
-Keep in mind that SCARs usually reduce performance a bit.
-
-Cynthia performance can be roughly approximated by using Talon Claw T4 performance estimates (in regards to barrel length and spring choice).
+Good luck!
+-Sillybutts
 
 ## Sellers
 A full list of non-US sellers can be found here: https://www.stuffbysilly.com/wheretobuy
@@ -192,22 +136,3 @@ Also, thanks to all my beta testers for their feedback while designing Cynthia. 
 ## Images
 
 <img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%201.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%202.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%203.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%204.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%205.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%206.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%207.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%2011%20v26%208.png" width="500">
-<img src="GHimages/triggers.png" width="500">
-<img src="GHimages/front%20grip.png" width="500">
-<img src="GHimages/muzzle%20bottom%20picatinny.png" width="500">
-<img src="GHimages/normal.png" width="500">
-<img src="GHimages/side%20rail.png" width="500">
-<img src="GHimages/slim%20with%20front%20grip.png" width="500">
-<img src="GHimages/slim.png" width="500">
-<img src="GHimages/stocks.png" width="500">
-<img src="GHimages/stubby.png" width="500">
-<img src="GHimages/print%20orientation%20messy.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%20Color%20Guide.png" width="500">
-
