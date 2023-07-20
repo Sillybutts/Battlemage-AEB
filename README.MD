@@ -79,10 +79,11 @@ Catch assembly: https://youtu.be/D5Ouzac-vMs
 Plunger Tube Gluing Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
 (Super glue works, epoxy is best)
 
-### Beta Tester Thanks
+## Project Contributors
 <details>
 <summary>Thanks to the people that have contributed to the Battlemage project so far! Here's a list of who did what (in no particular order): (click this text)</summary>
 
+Pre-release (before 7-20-2023)
 - 404Dan: Trigger and microswitch design help.
 - SuperStressed: Motor and electrical help.
 - Payton S.: Printed an EXTREMELY EARLY functional testbed, which laid the groundwork for Battlemage.
@@ -96,7 +97,11 @@ Plunger Tube Gluing Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
 - Orion Blasters/Dan: Turnaround help.
 - zoomed_out_tahova: Battery compatibility help. 
 - Horusrogue: AEB conceptual help.
-  
+And a bunch of other folks on various discord servers :)
+
+Alpha (7-20-2023 to current)
+  - 
+
 </details>
 
 ## Misc.
