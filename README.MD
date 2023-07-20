@@ -28,7 +28,7 @@ In order to use either of these fixes, the total wheel movement back and forth w
 
 Method 1: add a slot to the driving pin to delay movement.
 
-Method 2: Have the ram itself slide inside the ram-carrier.
+Method 2: Have the ram itself slide inside the ram-carrier. This uses a different 10-32 bolt than the standard setup https://www.mcmaster.com/92314A840/
 
 I personally think method 2 has more promise, but my method of keeping the ram from rotating out of position is semi-sketchy: using the head of a hex bolt in a hex shaped slot. 
 
