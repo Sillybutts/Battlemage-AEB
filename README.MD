@@ -44,6 +44,24 @@ I personally think method 2 has more promise, but my method of keeping the ram f
 
 Neither of these have been printed or tested as of 7-20-2023.
 
+
+## Other misc to-do stuff
+
+- make top cover with no viewing slots as an optional bit
+- straight down screws in the middle cover back, NOT ANGLED.
+- storage slot for takedown pins during disassembly (like the Lynx)
+- fix vertical travel of magazine so it catches in the magwell more reliably.
+-  lock in nut on turnaround somehow
+- keep the middle cover as two separate wings for easy assembly. Maybe add pegs between it and the top cover?
+- more space for wires???
+- fix switch hole spacing, print a bunch of testing bits.
+- heat set screws to attach muzzle
+- dovetail bottom rail front with the front of the front block so no screws are removed during disassembly and maintenance. Maybe same for the top rail, then cover with the muzzle?
+- Make the middle slice of the crank cover less bendy by attaching it to the top cover better
+- heat sets for screws on the catch block to aluminum bar connection
+- add safety warning on file listing NOT FOR USE BY CHILDREN. Record video jamming a carrot into the breech, smashing it. No fingers allowed. 
+- Remind me eventually to make a bolt disconnect for manual priming if need be
+
 ## Files
 
 The only currently released files are F3D and STEP. This is MEANT to be both for people to edit them, and as a barrier of entry. Battlemage is an UNFINISHED, VERY DIFFICULT TO BUILD BLASTER currently. It is only meant for EXPERIENCED BUILDERS AND DESIGNERS. It will NOT work first try.
@@ -62,6 +80,16 @@ Some parts have tight tolerances (mainly the dovetails in the catch area on the 
 ## Hardware
 
 The hardware can be found inside the F3D and STEP files. 
+
+Other stuff: 
+
+The blaster uses a 550 size motor: https://www.amazon.com/OGRC-Motor-Brushed-Traxxas-Slash/dp/B09TVVHC97/ref=sr_1_5?crid=1JHHTZKHYRXQM&keywords=550+motor&qid=1666213389&qu=eyJxc2MiOiI1LjI5IiwicXNhIjoiNC45MiIsInFzcCI6IjMuOTEifQ%3D%3D&s=toys-and-games&sprefix=550+moto%2Ctoys-and-games%2C164&sr=1-5
+
+Brushless 550 replacements are available online, the blaster could relatively easily be converted for those.
+
+OLD WORSE GEARBOX: https://www.aliexpress.us/item/3256804290236196.html
+
+Currently used gearbox: https://www.aliexpress.us/item/2255800966945183.html I use a 100:1 ratio. 8mm shaft option.
 
 ## Assembly
 
