@@ -17,6 +17,8 @@ Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
 
 <img src="GHimages/Battlemage%20AEB%209%20v21%201.png" width="500">
 <img src="GHimages/Battlemage%20AEB%209%20v21%202.png" width="500">
+<img src="GHimages/Battlemage%20second%20prototype.jpg" width="500">
+<img src="GHimages/Battlemage%20first%20prototype.jpg" width="500">
 
 
 ## Description
