@@ -32,9 +32,11 @@ TL:DR, the breech needs to stay closed longer.
 In order to use either of these fixes, the total wheel movement back and forth will likely need to be increased.
 
 Method 1: add a slot to the driving pin to delay movement.
+
 <img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%201.png" width="500">
 
 Method 2: Have the ram itself slide inside the ram-carrier. This uses a different 10-32 bolt than the standard setup https://www.mcmaster.com/92314A840/
+
 <img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%202.png" width="500">
 
 I personally think method 2 has more promise, but my method of keeping the ram from rotating out of position is semi-sketchy: using the head of a hex bolt in a hex shaped slot. 
