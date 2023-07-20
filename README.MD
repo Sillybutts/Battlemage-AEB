@@ -6,8 +6,8 @@ Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
 
 - Changelog: 10-15-2022: Designing begins
 - Changelog: 11-04-2022: First testbed functional
-- Changelog: 11-16-2022: Beginning redesign
-- Changelog: 01-02-2023: First redesign functional prototype (MIG AEB prototype)
+- Changelog: 11-16-2022: Beginning redesign https://www.youtube.com/watch?v=yAXvlevpupM
+- Changelog: 01-02-2023: First redesign functional prototype (MIG AEB prototype) https://www.youtube.com/watch?v=KqewE_DcPns
 - Changelog: 01-05-2023: Beginning second redesign (Battlemage) https://www.youtube.com/watch?v=EyKbx0iVPpk 
 - Changelog: 02-11-2023: Battlemage first prototype
 - Changelog: 05-10-2023: Battlemage second prototype https://youtu.be/FjukQW9LZSY
