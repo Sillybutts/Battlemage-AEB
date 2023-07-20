@@ -40,7 +40,7 @@ Method 2: Have the ram itself slide inside the ram-carrier. This uses a differen
 
 <img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%202.png" width="500">
 
-I personally think method 2 has more promise, but my method of keeping the ram from rotating out of position is semi-sketchy: using the head of a hex bolt in a hex shaped slot. 
+I personally think method 2 has more promise, but my method of keeping the ram from rotating out of position is semi-sketchy: using the head of a hex bolt in a hex shaped slot. Method 2 also needs a small edit before anyone prints it; the pin hole should be moved back so it doesn't hit the ram bolt head. The crank arm should also be reduced that same distance.
 
 Neither of these have been printed or tested as of 7-20-2023.
 
