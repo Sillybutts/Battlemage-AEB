@@ -4,6 +4,13 @@ Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
 <details>
 <summary>Changelog (click this text, it's a dropdown!)</summary>
 
+- Changelog: 10-15-2022: Designing begins
+- Changelog: 11-04-2022: First testbed functional
+- Changelog: 11-16-2022: Beginning redesign
+- Changelog: 01-02-2023: First redesign functional prototype (MIG AEB prototype)
+- Changelog: 01-05-2023: Beginning second redesign (Battlemage) https://www.youtube.com/watch?v=EyKbx0iVPpk 
+- Changelog: 02-11-2023: Battlemage first prototype
+- Changelog: 05-10-2023: Battlemage second prototype https://youtu.be/FjukQW9LZSY
 - Changelog: 7-20-2023: SUPER ROUGH ALPHA RELEASE
   
 </details>
@@ -92,6 +99,7 @@ Pre-release (before 7-20-2023)
 - Orion Blasters/Dan: Turnaround help.
 - zoomed_out_tahova: Battery compatibility help. 
 - Horusrogue: AEB conceptual help.
+- Hotkoin: Aesthetic help.
 And a bunch of other folks on various discord servers :)
 
 Alpha (7-20-2023 to current)
