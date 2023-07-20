@@ -43,21 +43,6 @@ I personally think method 2 has more promise, but my method of keeping the ram f
 
 Neither of these have been printed or tested as of 7-20-2023.
 
-
-Good luck!
--Sillybutts
-
-## Sellers
-A full list of non-US sellers can be found here: https://www.stuffbysilly.com/wheretobuy
-
-Hardware is available from these sellers:
-- OutOfDarts: https://outofdarts.com/products/cynthia-hardware-kit
-- SilverFoxIndustries: https://silverfoxindustries.shop/collections/new-products/products/cynthia-hardware-kit
-
-Fully printed/assembled blasters are available from these sellers:
-- OutOfDarts: https://outofdarts.com/products/cynthia-3d-parts-hardware-kit
-- SilverFoxIndustries: WIP
-
 ## Print Info
 
 Cynthia uses less than one 1kg PLA spool (if you were to print it all one color).
@@ -96,16 +81,21 @@ Plunger Tube Gluing Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
 
 ### Beta Tester Thanks
 <details>
-<summary>Thanks to my beta testers who contributed features and variant parts to Cynthia! Here's a list of who did what: (click this text)</summary>
+<summary>Thanks to the people that have contributed to the Battlemage project so far! Here's a list of who did what (in no particular order): (click this text)</summary>
 
-- Chance made a new trigger for Cynthia, fixed some trigger wobble issues, and recommended adding a ball detent to the bolt handle.
-
-Also, thanks to all my beta testers for their feedback while designing Cynthia. Couldn't have done it (this well) without you guys(and gals)!
-
-- Chance
-- WonderBoy
-- BansheeIndian
-- Greg from OutOfDarts
+- 404Dan: Trigger and microswitch design help.
+- SuperStressed: Motor and electrical help.
+- Payton S.: Printed an EXTREMELY EARLY functional testbed, which laid the groundwork for Battlemage.
+- Chance: Emotional support (Chance — 05/10/2023 5:45 PM: "suck my ball bearings"). Also a lot of other miscellaneous conceptual assistance. 
+- BansheeIndian: Emotional support
+- nevets01: Mechanical conceptual help.
+- ice086: Mechanical conceptual help.
+- Pinky’s Revenge: Mechanical conceptual help.
+- Tarik (little rocket guy): Mechanical conceptual help.
+- Eli Wu: AEB conceptual help.
+- Orion Blasters/Dan: Turnaround help.
+- zoomed_out_tahova: Battery compatibility help. 
+- Horusrogue: AEB conceptual help.
   
 </details>
 
