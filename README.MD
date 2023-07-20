@@ -21,11 +21,10 @@ Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
 
 ## Description
 
-Cynthia is a bolt action blaster using the same basic layout as the Indra by CaptainSlug. Cynthia began with me figuring out how to fix all the issues with the Indra, but I pretty quickly realized it would be easier to design a whole new blaster from the ground up, rather than fix the Indra part by part.
-Cynthia contains no original Indra parts.
+Battlemage AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 
-## DWELL TIME
+## DWELL TIME PROBLEM FIXES
 
 Dwell time fixes:
 
@@ -45,41 +44,30 @@ I personally think method 2 has more promise, but my method of keeping the ram f
 
 Neither of these have been printed or tested as of 7-20-2023.
 
+## Files
+
+The only currently released files are F3D and STEP. This is MEANT to be both for people to edit them, and as a barrier of entry. Battlemage is an UNFINISHED, VERY DIFFICULT TO BUILD BLASTER currently. It is only meant for EXPERIENCED BUILDERS AND DESIGNERS. It will NOT work first try.
+
 ## Print Info
 
-Cynthia uses less than one 1kg PLA spool (if you were to print it all one color).
+Battlemage uses pretty much a whole 1kg PLA spool (if you were to print it all one color).
 
 Infills:
-- Black: 
-- - PlungerRod, PlungerCap, 100% Gyroid, 5+ walls.
-- - ThumbholeStock needs a brim.
-- - Everything else, 20% Gyroid, 5 walls. 
+All the functional parts (the catch, catch ramp, catch holder, plunger rod, plunger head, primingblock, crank wheel, turnaround) MUST BE PRINTED AT HIGH INFILL HIGH WALLS. I recommend 100% infill 5 walls.
 
-- Orange: 
-- - BoltBase, BoltHandle, FrontGripKeeper, Catch, CatchPusher, PlungerHead, 100% infill, 5 walls.
-- - BoltHandle, FrontGripKeeper, CatchPusher need brims.
-- - Everything else, 20% Gyroid, 5 walls. 
+Pretty much everything else can be printed at 20% infill 5 walls (and the very big parts can probably work with 10% 5 walls). 
 
-- Green: 
-- - MagwellBack, Magwell_L, Magwell_R, Grip_L, Grip_R, 100% infill, 5 walls.
-- - All the tall green parts benefit from a brim.
-- - To be safe, I recommend you print each tall part one at a time.
-- - Everything else, 20% Gyroid, 5 walls. 
-
-Some parts have tight tolerances (mainly the dovetails in the catch area on the top cover print). Sanding and/or filing is recommended to make the dovetails go together smoothly. The top cover part can be broken if you try and force the dovetails together.
+Some parts have tight tolerances (mainly the dovetails in the catch area on the top cover print). Sanding and/or filing is recommended to make the dovetails go together smoothly.
 
 ## Hardware
 
-Full hardware list: https://docs.google.com/spreadsheets/d/1t6-6BqBstn1Ad-zIxsB0FqWth3nB00lHC9SVksAbSmY/edit?usp=sharing
+The hardware can be found inside the F3D and STEP files. 
 
 ## Assembly
 
-Video: https://youtu.be/j310YjRcwpU
+There is no assembly guide due to the extremely experimental nature of Battlemage so far. Please look at the F3D or STEP file in cad software to see how its assembled. 
 
-Catch assembly: https://youtu.be/D5Ouzac-vMs
-
-Plunger Tube Gluing Guide: https://www.youtube.com/watch?v=0BNuwjhlNqI
-(Super glue works, epoxy is best)
+Battlemage is an UNFINISHED, VERY DIFFICULT TO BUILD BLASTER currently. It is only meant for EXPERIENCED BUILDERS AND DESIGNERS. It will NOT work first try.
 
 ## Project Contributors
 <details>
