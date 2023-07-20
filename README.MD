@@ -14,8 +14,7 @@ Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
 <img src="GHimages/Battlemage%20AEB%209%20v21%204.png" width="500">
 <img src="GHimages/Battlemage%20AEB%209%20v21%205.png" width="500">
 <img src="GHimages/Battlemage%20AEB%209%20v21%206.png" width="500">
-<img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%201.png" width="500">
-<img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%202.png" width="500">
+
 
 
 ## Description
@@ -33,12 +32,15 @@ TL:DR, the breech needs to stay closed longer.
 In order to use either of these fixes, the total wheel movement back and forth will likely need to be increased.
 
 Method 1: add a slot to the driving pin to delay movement.
+<img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%201.png" width="500">
 
 Method 2: Have the ram itself slide inside the ram-carrier. This uses a different 10-32 bolt than the standard setup https://www.mcmaster.com/92314A840/
+<img src="GHimages/Battlemage%20AEB%209%20v19%20METHOD%202.png" width="500">
 
 I personally think method 2 has more promise, but my method of keeping the ram from rotating out of position is semi-sketchy: using the head of a hex bolt in a hex shaped slot. 
 
 Neither of these have been printed or tested as of 7-20-2023.
+
 
 Good luck!
 -Sillybutts
@@ -77,18 +79,9 @@ Infills:
 
 Some parts have tight tolerances (mainly the dovetails in the catch area on the top cover print). Sanding and/or filing is recommended to make the dovetails go together smoothly. The top cover part can be broken if you try and force the dovetails together.
 
-<img src="GHimages/print%20orientation%20messy.png" width="500">
-<img src="GHimages/Cynthia%20Bolt%20Action%20Color%20Guide.png" width="500">
-
 ## Hardware
 
 Full hardware list: https://docs.google.com/spreadsheets/d/1t6-6BqBstn1Ad-zIxsB0FqWth3nB00lHC9SVksAbSmY/edit?usp=sharing
-
-H4 bar spec for those interested: 
-
-<img src="H4%20bar%20spec.PNG" width="500">
-
-H4 bars can be cut down from C4 bars using the bar cutting tool (included in Cynthia files).
 
 ## Assembly
 
