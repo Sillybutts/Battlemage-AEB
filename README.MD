@@ -15,11 +15,9 @@ Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
   
 </details>
 
-<img src="GHimages/Battlemage%20AEB%209%20v21%201.png" width="500">
-<img src="GHimages/Battlemage%20AEB%209%20v21%202.png" width="500">
-<img src="GHimages/Battlemage%20second%20prototype.jpg" width="500">
+<img src="GHimages/Battlemage%20AEB%209%20v21%201.png" width="500"><img src="GHimages/Battlemage%20AEB%209%20v21%202.png" width="500">
 <img src="GHimages/Battlemage%20first%20prototype.jpg" width="500">
-
+<img src="GHimages/Battlemage%20second%20prototype.jpg" width="500">
 
 ## Description
 
@@ -110,6 +108,9 @@ There is no assembly guide due to the extremely experimental nature of Battlemag
 
 Battlemage is an UNFINISHED, VERY DIFFICULT TO BUILD BLASTER currently. It is only meant for EXPERIENCED BUILDERS AND DESIGNERS. It will NOT work first try.
 
+<img src="GHimages/Battlemage%20first%20prototype.jpg" width="500">
+<img src="GHimages/Battlemage%20second%20prototype.jpg" width="500">
+
 ## Project Contributors
 <details>
 <summary>Thanks to the people that have contributed to the Battlemage project so far! Here's a list of who did what (in no particular order): (click this text)</summary>
@@ -168,6 +169,8 @@ Alpha (7-20-2023 to current)
 
 ## Images
 
+<img src="GHimages/Battlemage%20first%20prototype.jpg" width="500">
+<img src="GHimages/Battlemage%20second%20prototype.jpg" width="500">
 <img src="GHimages/Battlemage%20AEB%209%20v21%201.png" width="500">
 <img src="GHimages/Battlemage%20AEB%209%20v21%202.png" width="500">
 <img src="GHimages/Battlemage%20AEB%209%20v21%203.png" width="500">
