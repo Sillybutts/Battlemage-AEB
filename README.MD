@@ -101,9 +101,9 @@ The blaster uses a 550 size motor: https://www.amazon.com/OGRC-Motor-Brushed-Tra
 
 Brushless 550 replacements are available online, the blaster could relatively easily be converted for those.
 
-OLD WORSE GEARBOX: https://www.aliexpress.us/item/3256804290236196.html
-
 Currently used gearbox: https://www.aliexpress.us/item/2255800966945183.html I use a 100:1 ratio. 8mm shaft option.
+
+OLD WORSE GEARBOX: https://www.aliexpress.us/item/3256804290236196.html
 
 ## Assembly
 
