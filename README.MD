@@ -84,6 +84,8 @@ The only currently released files are F3D and STEP. This is MEANT to be both for
 
 Battlemage uses pretty much a whole 1kg PLA spool (if you were to print it all one color).
 
+Some stuff needs supports (like the motor cover), some stuff needs brims (like the ram).
+
 Infills:
 All the functional parts (the catch, catch ramp, catch holder, plunger rod, plunger head, primingblock, crank wheel, turnaround) MUST BE PRINTED AT HIGH INFILL HIGH WALLS. I recommend 100% infill 5 walls.
 
