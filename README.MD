@@ -19,6 +19,8 @@ Battlemage is a slider crank, turnaround based AEB/Autospringer concept.
 <img src="GHimages/Battlemage%20first%20prototype.jpg" width="500">
 <img src="GHimages/Battlemage%20second%20prototype.jpg" width="500">
 
+# THIS BLASTER IS SEMI-UNFINISHED. I figure its better to make what I have done so far public, and let people have at it, rather than it sitting around doing nothing.
+
 ## Description
 
 Battlemage AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -33,7 +35,7 @@ Battlemage first prototype: https://www.youtube.com/watch?v=EyKbx0iVPpk
 
 Battlemage second prototype: https://youtu.be/FjukQW9LZSY
 
-
+# THIS BLASTER IS SEMI-UNFINISHED. I figure its better to make what I have done so far public, and let people have at it, rather than it sitting around doing nothing.
 
 ## DWELL TIME PROBLEM FIXES
 
@@ -55,6 +57,7 @@ I personally think method 2 has more promise, but my method of keeping the ram f
 
 Neither of these have been printed or tested as of 7-20-2023.
 
+# THIS BLASTER IS SEMI-UNFINISHED. I figure its better to make what I have done so far public, and let people have at it, rather than it sitting around doing nothing.
 
 ## Other misc to-do stuff
 
